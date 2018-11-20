@@ -1,0 +1,6 @@
+Sample Rate: 10000.000000
+Stage Oscillation: 
+Oscillation Amplitude 1.400000
+Oscillation Frequency 0.200000
+Axis 88.000000
+Seconds: 30.000000
